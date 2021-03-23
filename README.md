@@ -5,3 +5,5 @@ Summary: checkout the branches to see the small applications I have built on thi
 ## main -> clean react repository
 
 ## graphql-practice -> learning basics of graphql in react
+
+## usecontext-practice -> re-learn context
